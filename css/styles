@@ -60,7 +60,7 @@ body {
     }
 
     svg {
-      width: 100%; 
+      width: 50%; 
       margin-top: 20px;
       background-color: #ffe0b3; 
   }
